@@ -1,6 +1,6 @@
 ![Image of Voxelnet Architecture](https://github.com/AnunakRoy/Voxelnet/blob/main/images/pre.png)
 
-
+ 
 
 
 
