@@ -1,3 +1,6 @@
+In this project I have used the Kitti 3D Velodyne point clouds dataset which has 100k points per frame, stored as binary float matrix.
+I have trained on the VoxelNet Architecture with this dataset.
+
 ![Image of Voxelnet Architecture](https://github.com/AnunakRoy/Voxelnet/blob/main/images/pre.png)
 
  
